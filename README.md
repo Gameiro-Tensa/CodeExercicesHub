@@ -24,3 +24,4 @@ Ein Programm, das eine Zahl nimmt und sagt, ob die Zahl eine gerade oder ungerad
 Ein Programm, das vergleicht drei Zahlen und gibt der großte Zahl aus.
 
 # seven
+Ein Programm, das Überpruft ob die eingegebene Note bestanden oder nicht 
