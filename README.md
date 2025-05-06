@@ -25,3 +25,8 @@ Ein Programm, das vergleicht drei Zahlen und gibt der großte Zahl aus.
 
 # seven
 Ein Programm, das Überpruft ob die eingegebene Note bestanden oder nicht 
+
+# eight
+Ein Programm, das multipliziert zwei Zahlen und sagt, ob Produkt positif, negatif oder null ist.
+
+# nine
