@@ -1,7 +1,7 @@
 # Ecrire un Programme Python, qui permet d'evaluer une note saisi au clavier (si la note est superieur a 10 alors il affiche valider sion non valider)
 # NB la note comprise entre 0 et 20
 
-print("Bitte geben Sie Ihre Note ein, um zu prüfen ob es bestamden oder nicht bestanden")
+print("Bitte geben Sie Ihre Note ein, um zu prüfen ob es bestanden oder nicht bestanden")
 
 note = int(input("Note hier eingeben (zwischen 0 und 20):  "))
 
