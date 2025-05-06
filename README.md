@@ -30,3 +30,7 @@ Ein Programm, das Überpruft ob die eingegebene Note bestanden oder nicht
 Ein Programm, das multipliziert zwei Zahlen und sagt, ob Produkt positif, negatif oder null ist.
 
 # nine
+Ein Programm zur Berechnung des Absolutwertes
+
+# ten
+Ein Programm zur Berechnung des Durchschnitts dreier Zahlen
